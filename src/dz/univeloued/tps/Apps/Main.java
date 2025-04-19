@@ -74,7 +74,7 @@ public class Main {
     public static void runUserMenu(User user, Scanner scanner) {
         int choice;
         do {
-            System.out.println("\n👤 User Menu:");
+            System.out.println("\n  User Menu:");
             System.out.println("1. Search Book");
             System.out.println("2. Borrow Book (by ISBN)");
             System.out.println("3. View Borrowed Books");
