@@ -57,7 +57,9 @@ project-root/
 
 
 
-![IntelliJ Terminal](/docs/Screenshot%202025-04-19%20223918.png)  
+![IntelliJ Terminal](/docs/Screenshot%202025-04-19%20223918.png)
+
+
 ![IntelliJ Terminal](/docs/Screenshot%202025-04-19%20223646.png)                  
 
 
