@@ -38,22 +38,8 @@ A simple Java-based Library Management System that supports two types of roles:
 
 The project is organized as follows:
 
-project-root/
-    ├── docs/
-    |     └── README.md
-    └──src
-         └── dz/univeloued/tps/
-                  ├── classes
-                  │     ├── Book.java
-                  │     ├── Borrower.java
-                  │     ├── BorrowingProcess.java
-                  │     ├── E_book.java
-                  │     ├── PrintedBook.java
-                  |     └── role
-                  │          ├── Admin.java
-                  │          └── User.java
-                  ├── Apps
-                  │    └── Main.java
+![IntelliJ Terminal](/docs/img.png)
+
 
 
 
